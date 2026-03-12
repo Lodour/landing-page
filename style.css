@@ -167,8 +167,8 @@ body {
   opacity: .8;
 }
 
-.links a svg {
-  height: 25px;
+.links a i {
+  font-size: 22px;
 }
 
 .links a:hover {
